@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psychosocialservices
-- 👀 I’m interested in Suicide prevention AI and ML in a 'virtual village'. 
-- 🌱 I’m currently learning to create asound Network 'space' on Facebook to reach my target audience  
-- 💞️ I’m looking to collaborate on design and guidance, primarily have content but no (space) process
-- 📫 You can reach me at psychosocial@bigpond.com/
+- 👀 I’m interested in suicide prevention AI and ML and VR, envision a 'virtual village' 
+- 🌱 I’m currently learning to create a sound Network 'space' on Facebook to reach my target audience, proposed platform  
+- 💞️ I’m looking to collaborate on design and primarily have content but no process
+- 📫 You can reach me either here or via psychosocial@bigpond.com/ ,thanks
 
 <!---
 psychosocialservices/psychosocialservices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
